@@ -8,10 +8,12 @@ The [Developer wiki](https://github.com/overleaf/overleaf/wiki) contains further
 
 ## Getting Started
 
+- Install coreutils via homebrew or apt
+
 Clone this repository locally:
 
 ``` sh
-git clone https://github.com/overleaf/toolkit.git ./overleaf-toolkit
+git clone https://github.com/saptarshichakrabarti/overleaf-toolkit-localfix.git ./overleaf-toolkit
 ```
 
 Then follow the [Quick Start Guide](./doc/quick-start-guide.md).
